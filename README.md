@@ -18,6 +18,8 @@ omarchy theme set sunset-at-the-beach
 
 ![Sunset At The Beach](screenshots/preview.png)
 
+![Sunset At The Beach lock screen](preview-unlock.png)
+
 ## Wallpapers
 
 - [brown stone near sea at golden hour](https://unsplash.com/photos/brown-stone-near-sea-at-golden-hour-vmZ2DehWQ3Q)
